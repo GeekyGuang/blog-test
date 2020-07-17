@@ -12,7 +12,7 @@
 - 香蕉
 - 梨
 
-我还会写代码，不信我秀一段给您瞧瞧
+我还会写代码，神马`JS`, `Python`, `Ruby`都是小case，不信我秀一段给您瞧瞧
 ```javascript
 var message = "西门吹雪最帅"
 console.log(message)
